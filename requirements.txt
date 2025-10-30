@@ -1,0 +1,7 @@
+pymupdf==1.22.5
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+numpy==1.25.2
+pandas==2.2.2
+streamlit==1.26.0
+tqdm==4.66.1
