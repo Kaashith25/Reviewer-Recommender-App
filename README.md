@@ -1,3 +1,9 @@
+# Assignment #2 - Team Details
+* **Name:** G. V. Kaashith, **Roll No.:** SE22UARI200
+* **Name:** T. Vamshi Krishna, **Roll No.:** SE22UARI198
+
+---
+
 # Reviewer Recommender System
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reviewer-recommender-app-kaash.streamlit.app/)
