@@ -1,10 +1,11 @@
+# Reviewer Recommender System
+---
+
 # Assignment #2 - Team Details
 * **Name:** G. V. Kaashith, **Roll No.:** SE22UARI200
 * **Name:** T. Vamshi Krishna, **Roll No.:** SE22UARI198
 
 ---
-
-# Reviewer Recommender System
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reviewer-recommender-app-kaash.streamlit.app/)
 
@@ -90,3 +91,4 @@ If you wish to re-build the database, you must:
 | **`profiles/multivector_database.pkl`** | The **"brain"** of the app. This single file contains the pre-computed `best_text` and `full_text` embeddings for all 639 papers. |
 | **`requirements.txt`** | The list of Python packages needed for Streamlit to install. |
 | **`.gitignore`** | Tells Git to ignore the `dataset/`, `.venv/`, and other temporary files. |
+
